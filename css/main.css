@@ -1,0 +1,40 @@
+html {
+  font-family: "PT Serif", serif;
+  line-height: 1.5;
+  background-color: #c9b5ab;
+  color: #222;
+  font-size: .8rem;
+  font-weight: normal;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+header {
+  font-family: "PT Sans";
+}
+
+h1, h2 {
+  color: #3f1622;
+  font-size: 1.5rem;
+}
+
+nav ol {
+  color: #8f2440;
+  font-size: 1.125rem;
+}
+
+h2 {
+  font-family: "PT Sans";
+}
+
+a[href="https://www.wikipedia.org"] {
+  color: #8f2440;
+}
+
+a:hover {
+  color: #3f1622;
+}
