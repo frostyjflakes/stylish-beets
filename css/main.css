@@ -34,16 +34,16 @@ a[href="https://www.wikipedia.org"] {
   color: #8f2440;
 }
 
+a {
+  color: #8f2440;
+  text-decoration: none;
+  font-family: "PT Sans", sans-serif;
+}
+
 a:hover {
   text-decoration: underline;
 }
 
 img {
   width: 100%;
-}
-
-a {
-  color: #8f2440;
-  text-decoration: none;
-  font-family: "PT Sans", sans-serif;
 }
